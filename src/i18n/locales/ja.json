@@ -1,0 +1,40 @@
+{
+  "text": {
+    "aboutTitle": "About",
+    "aboutDescription": "GOTITは、プログラミング学習動画へのリンクをまとめたサービスです。",
+    "conceptTitle": "Concept",
+    "conceptDescription": "きた、みた、わかった。",
+    "tagTitle": "Tag",
+    "tagDescription": "",
+    "dots": "..."
+  },
+  "message": {
+    "pageNotFound": "ページが見つかりません。",
+    "listNotFound": "一覧はありません。",
+    "created": "登録しました。",
+    "updated": "更新しました。",
+    "deleted": "削除しました。"
+  },
+  "serviceName": "GOTIT",
+  "copyright": "Copyright © {year} GOTIT All Rights Reserved.",
+  "pageName": {
+    "contentList": "コンテンツ一覧",
+    "contentNew": "コンテンツ新規",
+    "content": "コンテンツ詳細",
+    "tagList": "タグ一覧",
+    "tagNew": "タグ新規",
+    "tag": "タグ詳細",
+    "userList": "ユーザ一覧",
+    "userNew": "ユーザ新規",
+    "user": "ユーザ詳細"
+  },
+  "buttonName": {
+    "login": "ログイン",
+    "logout": "ログアウト",
+    "save": "保存",
+    "create": "新規登録",
+    "cancel": "キャンセル",
+    "delete": "削除",
+    "search": "検索"
+  }
+}
